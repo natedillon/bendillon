@@ -78,6 +78,10 @@ footer p {
   margin: 0;
 }
 
+footer p span {
+  white-space: nowrap;
+}
+
 footer a {
   white-space: nowrap;
 }
